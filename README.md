@@ -1,6 +1,6 @@
 # 👩🏻‍💻 hailton alberto
 
-**`Estudante de Python apaixonado pela linguagem e em busca de oportunidades na área.`**
+**`Estudante de Python, html,java,sql, apaixonado pela linguagem e em busca de oportunidades na área.`**
 
 Me chamo Hailton Alberto, tenho 34 anos e sou natural de São Paulo, estou cursando Análise e Desenvolvimento de Sistemas na ESTÁCIO. Sou apaixonada por tecnologia, estudo as linguagens python, java,HTML,SQL.
 
