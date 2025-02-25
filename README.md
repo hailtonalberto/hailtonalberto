@@ -1,8 +1,11 @@
 # 👩🏻‍💻 hailton alberto
 
-**`Estudante de Python, html,java,sql, apaixonado pela linguagem e em busca de oportunidades na área.`**
+**`👋 Olá, eu sou Hailton Alberto!
+💻 Desenvolvedor Back-end com experiência em Python, JavaScript e Java.
+🚀 Apaixonado por resolver problemas complexos e criar soluções escaláveis e eficientes.
+📚 Sempre aprendendo e compartilhando conhecimento.`**
 
-Me chamo Hailton Alberto, tenho 34 anos e sou natural de São Paulo, estou cursando Análise e Desenvolvimento de Sistemas na ESTÁCIO. Sou apaixonada por tecnologia, estudo as linguagens python, java,HTML,SQL.
+
 
 <p align="left">
     <a href="">
