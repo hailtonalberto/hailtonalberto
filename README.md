@@ -1,7 +1,7 @@
 # 👩🏻‍💻 hailton alberto
 
 **`👋 Olá, eu sou Hailton Alberto!
-💻 Desenvolvedor Back-end com experiência em Python, JavaScript e Java.
+💻 Desenvolvedor Back-end com experiência em Python, html Mysql, Java e css.
 🚀 Apaixonado por resolver problemas complexos e criar soluções escaláveis e eficientes.
 📚 Sempre aprendendo e compartilhando conhecimento.`**
 
